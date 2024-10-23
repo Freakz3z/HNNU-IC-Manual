@@ -1,6 +1,6 @@
-<div id="timer" style="font-size: 2em; color: #333; text-align: center;">test</div>
+<div id="timer" style="font-size: 2em; color: #333; text-align: center;"></div>
 
-```eval-js
+<script>
   // 设置开始时间
   const startTime = new Date('2024-10-22T21:00:00Z').getTime();
 
@@ -20,8 +20,4 @@
 
   // 每秒更新一次计时器
   setInterval(updateTimer, 1000);
-```
-```eval-js
-var x = 1;
-x + Math.random();
-```
+</script>
