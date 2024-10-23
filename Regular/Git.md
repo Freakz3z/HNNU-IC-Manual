@@ -1,13 +1,11 @@
-# Git 基本命令
-
-#### 1. 配置用户信息
+# 1. 配置用户信息
 在开始使用 Git 之前，通常需要设置你的用户名和邮箱：
 ```bash
 git config --global user.name "Your Name"
 git config --global user.email "your_email@example.com"
 ```
 
-#### 2. 创建和克隆仓库
+# 2. 创建和克隆仓库
 - **创建新的 Git 仓库**：
   ```bash
   git init
@@ -18,13 +16,13 @@ git config --global user.email "your_email@example.com"
   git clone <repository-url>
   ```
 
-#### 3. 查看状态
+# 3. 查看状态
 - **查看当前工作目录和暂存区的状态**：
   ```bash
   git status
   ```
 
-#### 4. 添加和提交更改
+# 4. 添加和提交更改
 - **将更改添加到暂存区**：
   ```bash
   git add <file>
@@ -39,7 +37,7 @@ git config --global user.email "your_email@example.com"
   git commit -m "Commit message"
   ```
 
-#### 5. 查看提交历史
+# 5. 查看提交历史
 - **查看提交记录**：
   ```bash
   git log
@@ -50,7 +48,7 @@ git config --global user.email "your_email@example.com"
   git log --oneline
   ```
 
-#### 6. 分支管理
+# 6. 分支管理
 - **查看所有分支**：
   ```bash
   git branch
@@ -75,13 +73,13 @@ git config --global user.email "your_email@example.com"
   git branch -d <branch-name>
   ```
 
-#### 7. 合并分支
+# 7. 合并分支
 - **将一个分支合并到当前分支**：
   ```bash
   git merge <branch-name>
   ```
 
-#### 8. 远程仓库管理
+# 8. 远程仓库管理
 - **查看远程仓库**：
   ```bash
   git remote -v
@@ -107,7 +105,7 @@ git config --global user.email "your_email@example.com"
   git fetch <remote-name>
   ```
 
-#### 9. 撤销操作
+# 9. 撤销操作
 - **撤销暂存区的更改**：
   ```bash
   git reset <file>
@@ -123,7 +121,7 @@ git config --global user.email "your_email@example.com"
   git reset HEAD~1
   ```
 
-### 10. 标签管理
+# 10. 标签管理
 - **创建标签**：
   ```bash
   git tag -a <tag-name> -m "Tag message"
