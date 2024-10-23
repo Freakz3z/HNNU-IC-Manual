@@ -37,7 +37,7 @@ __手册中大部分回答仅代表个人观点，不涉及其他个人及组织
 <body>
     <div class="timer" id="timer">计时器</div>
 
-    <script>
+<script>
         // 设置开始时间
         const startTime = new Date('2024-10-22T21:00:00Z').getTime();
 
@@ -57,6 +57,6 @@ __手册中大部分回答仅代表个人观点，不涉及其他个人及组织
 
         // 每秒更新一次计时器
         setInterval(updateTimer, 1000);
-    </script>
+</script>
 </body>
 </html>
