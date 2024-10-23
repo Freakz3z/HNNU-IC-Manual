@@ -21,3 +21,7 @@
   // 每秒更新一次计时器
   setInterval(updateTimer, 1000);
 ```
+```eval-js
+var x = 1;
+x + Math.random();
+```

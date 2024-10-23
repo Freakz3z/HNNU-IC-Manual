@@ -6,11 +6,35 @@
     {
     "readme": "README.md"
     },
-    "plugins": ["klipse","expandable-chapters-small"],
+    "plugins": ["klipse","expandable-chapters-small","-sharing", "sharing-plus"],
     "pluginsConfig": 
     {
         "klipse": {
             "lang": "js"
-        }
+        },
+        "sharing": {
+       "douban": false,
+       "facebook": false,
+       "google": false,
+       "hatenaBookmark": false,
+       "instapaper": false,
+       "line": false,
+       "linkedin": false,
+       "messenger": false,
+       "pocket": false,
+       "qq": true,
+       "qzone": false,
+       "stumbleupon": false,
+       "twitter": false,
+       "viber": false,
+       "vk": false,
+       "weibo": false,
+       "whatsapp": false,
+       "all": [
+           "facebook", "google", "twitter",
+           "weibo", "instapaper", "linkedin",
+           "pocket", "stumbleupon"
+       ]
+   }
     }
 }
