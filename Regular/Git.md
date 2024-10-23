@@ -2,6 +2,8 @@
 在开始使用 Git 之前，通常需要设置你的用户名和邮箱：
 ```bash
 git config --global user.name "Your Name"
+```
+```bash
 git config --global user.email "your_email@example.com"
 ```
 
