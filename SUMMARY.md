@@ -2,8 +2,6 @@
 
 * [手册介绍](/README.md)
 
-* [统计](/home.html)
-
 ### 关于新生
 <!-- * 关于新生 -->
 * [你想要做什么](/Freshman/Some-Words.md)
@@ -15,3 +13,5 @@
 * [关于竞赛中心](/QA/About-Competition-Center.md)
 * [关于竞赛](/QA/About-Competiton.md)
 * [README](/QA/README.md)
+
+* [手册统计](/home.html)

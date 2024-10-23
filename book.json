@@ -4,5 +4,9 @@
     "author":"Freak",
     "structure": {
     "readme": "README.md"
-  }
+  },
+    "variables": {
+        "headerTemplate": "<div style='text-align: center; font-weight: bold;'>欢迎来到 _TITLE_</div>",
+        "footerTemplate": "<div style='text-align: center;'>第 _PAGENUM_ 页, 版权 © 2024</div>"
+    }
 }
