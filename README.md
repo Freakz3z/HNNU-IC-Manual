@@ -19,3 +19,5 @@
 
 正文:略
 ```
+
+或点击此链接并在评论区留言——[信息收集](https://freakk.love/freak/hnnu-ic-manual%e6%89%8b%e5%86%8c%e4%bf%a1%e6%81%af%e6%94%b6%e9%9b%86/)
