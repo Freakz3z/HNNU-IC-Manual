@@ -11,6 +11,7 @@
 ### 常用
 <!-- * 常用 -->
 * [MySQL](/Regular/MySQL.md)
+* [Git](/Regular/Git.md)
 * [README](/Regular/README.md)
 
 ### Q&A
