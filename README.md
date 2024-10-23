@@ -19,3 +19,4 @@
 2. 点击此链接并在评论区留言——[博客](https://freakk.love/freak/hnnu-ic-manual%e6%89%8b%e5%86%8c%e4%bf%a1%e6%81%af%e6%94%b6%e9%9b%86/)
 
 3. 点击此链接并提出Issue——[GitHub](https://github.com/Freakz3z/HNNU-IC-Manual)
+- ~~如果觉得不错可以Star一下喵~~
