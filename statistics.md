@@ -1,4 +1,4 @@
-<div id="timer" style="font-size: 2em; color: #333; text-align: center;"></div>
+<div id="timer" style="font-size: 2em; color: #333; text-align: center;">test</div>
 
 ```eval-js
   // 设置开始时间

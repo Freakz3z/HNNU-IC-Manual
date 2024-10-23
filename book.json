@@ -6,7 +6,7 @@
     {
     "readme": "README.md"
     },
-    "plugins": ["klipse"],
+    "plugins": ["klipse","expandable-chapters-small"],
     "pluginsConfig": 
     {
         "klipse": {
