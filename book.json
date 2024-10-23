@@ -2,10 +2,15 @@
     "title":"HNNU-IC-Manual",
     "language":"zh-hans",
     "author":"Freak",
-    "structure": {
+    "structure": 
+    {
     "readme": "README.md"
     },
-    "plugins": [
-      "klipse"
-    ]
+    "plugins": ["klipse"],
+    "pluginsConfig": 
+    {
+        "klipse": {
+            "lang": "js"
+        }
+    }
 }
