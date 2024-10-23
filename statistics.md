@@ -1,6 +1,6 @@
 <div id="timer" style="font-size: 2em; color: #333; text-align: center;"></div>
 
-```js {#timer-code}
+```eval-js
   // 设置开始时间
   const startTime = new Date('2024-10-22T21:00:00Z').getTime();
 
