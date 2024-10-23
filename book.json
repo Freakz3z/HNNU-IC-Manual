@@ -5,7 +5,7 @@
     "structure": {
     "readme": "README.md"
     },
-    "scripts":[
-      "/js/time.js"
+    "plugins": [
+      "klipse"
     ]
 }

@@ -1,6 +1,7 @@
 # Summary
 
 * [手册介绍](/README.md)
+* [手册统计](/statistics.md)
 
 ### 关于新生
 <!-- * 关于新生 -->
@@ -13,5 +14,3 @@
 * [关于竞赛中心](/QA/About-Competition-Center.md)
 * [关于竞赛](/QA/About-Competiton.md)
 * [README](/QA/README.md)
-
-* [手册统计](/statistics.md)
