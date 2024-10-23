@@ -5,20 +5,20 @@
 
 ### 关于新生
 <!-- * 关于新生 -->
-* [关于新生](/Freshman/README.md)
+* 关于新生
     * [你想要做什么](/Freshman/Some-Words.md)
     * [关于学习](/Freshman/About-Freshman-Study.md)
 
 
 ### 常用
 <!-- * 常用 -->
-* [常用](/Regular/README.md)
+* 常用
     * [Git](/Regular/Git.md)
     * [MySQL](/Regular/MySQL.md)
 
 
 ### Q&A
 <!-- * Q&A -->
-* [Q&A](/QA/README.md)
+* Q&A
     * [关于竞赛中心](/QA/About-Competition-Center.md)
     * [关于竞赛](/QA/About-Competiton.md)
