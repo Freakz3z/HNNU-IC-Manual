@@ -8,6 +8,11 @@
 * [关于学习](/Freshman/About-Freshman-Study.md)
 * [README](/Freshman/README.md)
 
+### 常用
+<!-- * 常用 -->
+* [MySQL](/Regular/MySQL.md)
+* [README](/Regular/README.md)
+
 ### Q&A
 <!-- * Q&A -->
 * [关于竞赛中心](/QA/About-Competition-Center.md)
