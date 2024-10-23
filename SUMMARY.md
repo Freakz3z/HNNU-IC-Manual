@@ -11,4 +11,5 @@
 ### Q&A
 * Q&A
     * [关于竞赛中心](/QA/About-Competition-Center.md)
+    * [关于竞赛](/QA/About-Competiton.md)
 * [README](/QA/README.md)
