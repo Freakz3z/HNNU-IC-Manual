@@ -1,0 +1,1 @@
+<div id="time" style="font-size: 2em; color: #333; text-align: center;"></div>
