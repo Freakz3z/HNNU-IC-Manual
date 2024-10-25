@@ -10,7 +10,7 @@
 
 
 ### 常用
-* 常用命令
+* [常用命令](/Common/Command/README.md)
     * [Git](/Common/Command/Git.md)
     * [Markdown](/Common/Command/Markdown.md)
     * [MySQL](/Common/Command/MySQL.md)
