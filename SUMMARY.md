@@ -21,10 +21,7 @@
 * Q&A
     * [关于竞赛中心](/QA/About-Competition-Center.md)
     * [关于竞赛](/QA/About-Competiton.md)
-<<<<<<< HEAD
     * [关于学习](/QA/About-Study.md)
-=======
 
 ### TODO
 * [TODO列表](/TODO.md)
->>>>>>> 51782365db0e439ce65a6f91309407986fa63e4e
