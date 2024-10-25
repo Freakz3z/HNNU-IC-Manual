@@ -21,3 +21,4 @@
 * Q&A
     * [关于竞赛中心](/QA/About-Competition-Center.md)
     * [关于竞赛](/QA/About-Competiton.md)
+    * [关于学习](/QA/About-Study.md)
