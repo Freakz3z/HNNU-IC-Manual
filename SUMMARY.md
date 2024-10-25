@@ -6,14 +6,14 @@
 ### 关于新生
 <!-- * 关于新生 -->
 * [一些闲话](/Freshman/Some-Words.md)
-* [快速入门C++](/Freshman/Quick-Start-Cpp.md)
+* [快速入门C++](/Freshman/Quick-Start-C.md)
 
 
-### 常用
+### 常用命令
 <!-- * 常用 -->
-* [Git](/Regular/Git.md)
-* [Markdown](/Regular/Markdown.md)
-* [MySQL](/Regular/MySQL.md)
+* [Git](/Common-Command/Git.md)
+* [Markdown](/Common-Command/Markdown.md)
+* [MySQL](/Common-Command/MySQL.md)
 
 
 ### Q&A

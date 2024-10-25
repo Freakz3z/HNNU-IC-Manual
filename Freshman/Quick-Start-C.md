@@ -1,4 +1,4 @@
-由于培养方案的改变，现在大一新生首先接触的编程语言为Python。但是笔者强烈建议掌握C/C++相关知识，方便之后的各种学习，至少与Python进度同步。
+**由于培养方案的改变，现在大一新生首先接触的编程语言为Python。但是笔者强烈建议掌握C/C++相关知识，方便之后的各种学习，至少与Python进度同步。**
 
 # 零基础入门
 > [菜鸟教程C++教程](https://www.runoob.com/cplusplus/cpp-tutorial.html)
@@ -22,6 +22,3 @@
 > [OI-WiKi学习路线](https://oi-wiki.org/contest/roadmap/)
 
 > [OI-WiKi学习资源](https://oi-wiki.org/contest/resources/)
-
-# 更高的地方
-不知道啊，我也不知道啊。
