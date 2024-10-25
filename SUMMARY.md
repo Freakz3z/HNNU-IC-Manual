@@ -5,8 +5,8 @@
 
 ### 关于新生
 <!-- * 关于新生 -->
-* [你想要做什么](/Freshman/Some-Words.md)
-* [关于学习](/Freshman/About-Freshman-Study.md)
+* [一些闲话](/Freshman/Some-Words.md)
+* [快速入门C++](/Freshman/Quick-Start-Cpp.md)
 
 
 ### 常用
