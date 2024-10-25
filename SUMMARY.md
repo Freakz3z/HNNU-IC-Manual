@@ -2,7 +2,7 @@
 
 ### 关于手册
 * [手册介绍](/README.md)
-* [一些闲话]
+* [一些闲话](/Some-Words.md)
 
 ### 关于新生
 * [你想要做什么](/Freshman/What-U-Want.md)
