@@ -9,14 +9,11 @@
 * [快速入门C++](/Freshman/Quick-Start-C.md)
 * [选择适合的IDE](/Freshman/Choose-IDE.md)
 
-
 ### 常用
 * [常用命令](/Common/Command/README.md)
     * [Git](/Common/Command/Git.md)
     * [Markdown](/Common/Command/Markdown.md)
     * [MySQL](/Common/Command/MySQL.md)
-* 常用···TODO
-
 
 ### Q&A
 * Q&A

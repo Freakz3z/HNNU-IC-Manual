@@ -1,4 +1,4 @@
-[快速入门C++](/Freshman/Quick-Start-C.md)中提到了以下内容：
+在[快速入门C++](/Freshman/Quick-Start-C.md)中提到了以下内容：
 
 > [C++在线编辑器](https://www.runoob.com/try/runcode.php?filename=helloworld&type=cpp)
 
@@ -8,7 +8,7 @@
 
 # 对各种IDE的分析评价
 
-### 1. [Visual Studio Code](https://code.visualstudio.com/)
+## 1. [Visual Studio Code](https://code.visualstudio.com/)
 - **适用语言**：JavaScript, TypeScript, Python, C++, Java, Go, PHP, Ruby 等
 - **优势**：
   - 免费且开源，跨平台（Windows, macOS, Linux）。
@@ -19,7 +19,7 @@
 
 > 值得一提的是，笔者编写这本手册使用的就是VScode，包括项目的开发也是。VSCode是目前为止笔者使用的最舒服的IDE而没有之一。几乎支持所有的语言和框架，这点在笔者看来对其他IDE有些降维打击了，大力推崇。
 
-### 2. [IntelliJ IDEA](https://www.jetbrains.com/idea/)
+## 2. [IntelliJ IDEA](https://www.jetbrains.com/idea/)
 - **适用语言**：Java, Kotlin, Groovy, Scala, JavaScript, SQL 等
 - **优势**：
   - 强大的代码智能提示和重构功能。
@@ -30,7 +30,7 @@
 
 > 几乎是Java开发的首选，个人认为使用体验跟VSCode类似。
 
-### 3. [PyCharm](https://www.jetbrains.com/pycharm/)
+## 3. [PyCharm](https://www.jetbrains.com/pycharm/)
 - **适用语言**：Python
 - **优势**：
   - 专为 Python 开发设计，功能强大。
@@ -41,7 +41,7 @@
 
 > 虽然但是，笔者也没有使用过PyCharm，所以不好对其进行更多的评价。但集成Django和Flask的支持确实是很诱人的。
 
-### 4. [Visual Studio](https://visualstudio.microsoft.com/vs/)
+## 4. [Visual Studio](https://visualstudio.microsoft.com/vs/)
 - **适用语言**：C#, C++, Visual Basic, F#, JavaScript 等
 - **优势**：
   - 功能强大，适合 Windows 应用和 Web 应用开发。
@@ -52,7 +52,7 @@
 
 > 对于笔者自己而言，VS的使用体验是最差的，当然如果只是用来学习基本的C/C++还尚且足够，好过DEV-C++。由于笔者没有开发过关于C/C++的项目，所以不好对其进行更多的评价。
 
-### 5. [Atom](https://atom.io/)
+## 5. [Atom](https://atom.io/)
 - **适用语言**：HTML, CSS, JavaScript, Python, Ruby 等
 - **优势**：
   - 免费且开源，易于自定义。
@@ -62,7 +62,7 @@
 
 > 没有使用过，在搜查资料的时候偶然发现的一个IDE。由于笔者对前端内容掌握不错，后续可能会更新使用体验。
 
-### 6. [Android Studio](https://developer.android.com/studio)
+## 6. [Android Studio](https://developer.android.com/studio)
 - **适用语言**：Java, Kotlin
 - **优势**：
   - 官方 Android 开发 IDE，支持所有 Android 相关开发。
