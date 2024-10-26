@@ -7,13 +7,10 @@
 
 > [C++在线编辑器](https://www.runoob.com/try/runcode.php?filename=helloworld&type=cpp)
 
-> [下载Dev-C++：适合初学者的IDE](https://sourceforge.net/projects/orwelldevcpp/)
+> [Dev-C++：适合初学者的IDE](https://sourceforge.net/projects/orwelldevcpp/)
 
 # 具有一定基础
-
-处于这个阶段的同学完全可以自主从OI-WiKi中寻找需要的讯息、知识和资料。
-
-> [OI-Wiki](https://oi-wiki.org/)
+处于这个阶段的同学完全可以自主从[OI-Wiki](https://oi-wiki.org/)中寻找需要的讯息、知识和资料。
 
 例如：
 

@@ -7,6 +7,7 @@
 ### 关于新生
 * [你想要做什么](/Freshman/What-U-Want.md)
 * [快速入门C++](/Freshman/Quick-Start-C.md)
+* [选择适合的IDE](/Freshman/Choose-IDE.md)
 
 
 ### 常用
