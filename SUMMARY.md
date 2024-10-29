@@ -10,7 +10,7 @@
 * [选择适合的IDE](/Freshman/Choose-IDE.md)
 
 ### 常用
-* [常用命令](/Common/Command/README.md)
+* 常用命令
     * [Git](/Common/Command/Git.md)
     * [Markdown](/Common/Command/Markdown.md)
     * [MySQL](/Common/Command/MySQL.md)
@@ -20,7 +20,7 @@
     * [Obisidian]
 
 ### Q&A
-* Q&A
-    * [关于竞赛中心](/QA/About-Competition-Center.md)
-    * [关于竞赛](/QA/About-Competiton.md)
-    * [关于学习](/QA/About-Study.md)
+<!-- * Q&A -->
+* [关于竞赛中心](/QA/About-Competition-Center.md)
+* [关于竞赛](/QA/About-Competiton.md)
+* [关于学习](/QA/About-Study.md)
