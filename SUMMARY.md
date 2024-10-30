@@ -13,14 +13,19 @@
     * [选择你自己的路(TODO)](/Freshman/Choose-Your-Road.md)
 
 ### 开发(TODO)
+* 施工中
 
 ### 运维(TODO)
+* 施工中
 
 ### 深度学习(TODO)
+* 施工中
 
 ### 嵌入式(TODO)
+* 施工中
 
 ### 网安(Not TODO)
+* 不会施工
 
 ### 常用
 * 常用命令
