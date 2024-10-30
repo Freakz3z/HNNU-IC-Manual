@@ -6,8 +6,10 @@
 
 ### 关于新生
 * [你想要做什么](/Freshman/What-U-Want.md)
-* [快速入门C++](/Freshman/Quick-Start-C.md)
+* [入门C++](/Freshman/Quick-Start-C.md)
 * [选择适合的IDE](/Freshman/Choose-IDE.md)
+* [AI编程(TODO)](/Freshman/AI-Programming.md)
+* [选择你自己的路(TODO)](/Freshman/Choose-Your-Road.md)
 
 ### 常用
 * 常用命令
@@ -17,12 +19,14 @@
 * 常用工具
     * [Git](/Common/Tool/Git.md)
     * [命令行](/Common/Tool/Command-Line.md)
-    * [Obisidian](/Common/Tool/Obisdian.md)
+    * [Obisidian(TODO)](/Common/Tool/Obisdian.md)
+    * [AI(TODO)](/Common/Tool/AI.md)
 * 常用网站
-    * [GitHub](/Common/Website/GitHub.md)
+    * [GitHub(TODO)](/Common/Website/GitHub.md)
 
 ### Q&A
 <!-- * Q&A -->
 * [关于竞赛中心](/QA/About-Competition-Center.md)
 * [关于竞赛](/QA/About-Competiton.md)
 * [关于学习](/QA/About-Study.md)
+* [关于大学生活(TODO)](/QA/About-University-Life.md)
