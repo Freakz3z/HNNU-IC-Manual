@@ -11,6 +11,16 @@
 * [AI编程(TODO)](/Freshman/AI-Programming.md)
 * [选择你自己的路(TODO)](/Freshman/Choose-Your-Road.md)
 
+### 开发(TODO)
+
+### 运维(TODO)
+
+### 深度学习(TODO)
+
+### 嵌入式(TODO)
+
+### 网安(Not TODO)
+
 ### 常用
 * 常用命令
     * [Git](/Common/Command/Git.md)
