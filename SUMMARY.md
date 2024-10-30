@@ -12,19 +12,22 @@
     * [AI编程(TODO)](/Freshman/AI-Programming.md)
     * [选择你自己的路(TODO)](/Freshman/Choose-Your-Road.md)
 
-### 开发(TODO)
+### OI
+* [声明](/OI/README.md)
+
+### 开发
 * 施工中
 
-### 运维(TODO)
+### 运维
 * 施工中
 
-### 深度学习(TODO)
+### 深度学习
 * 施工中
 
-### 嵌入式(TODO)
+### 嵌入式
 * 施工中
 
-### 网安(Not TODO)
+### 网安
 * 不会施工
 
 ### 常用
