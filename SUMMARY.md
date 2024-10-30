@@ -5,11 +5,12 @@
 * [一些闲话](/Some-Words.md)
 
 ### 关于新生
-* [你想要做什么](/Freshman/What-U-Want.md)
-* [入门C++](/Freshman/Quick-Start-C.md)
-* [选择适合的IDE](/Freshman/Choose-IDE.md)
-* [AI编程(TODO)](/Freshman/AI-Programming.md)
-* [选择你自己的路(TODO)](/Freshman/Choose-Your-Road.md)
+* 关于新生
+    * [你想要做什么](/Freshman/What-U-Want.md)
+    * [入门C++](/Freshman/Quick-Start-C.md)
+    * [选择适合的IDE](/Freshman/Choose-IDE.md)
+    * [AI编程(TODO)](/Freshman/AI-Programming.md)
+    * [选择你自己的路(TODO)](/Freshman/Choose-Your-Road.md)
 
 ### 开发(TODO)
 
@@ -35,8 +36,8 @@
     * [GitHub(TODO)](/Common/Website/GitHub.md)
 
 ### Q&A
-<!-- * Q&A -->
-* [关于竞赛中心](/QA/About-Competition-Center.md)
-* [关于竞赛](/QA/About-Competiton.md)
-* [关于学习](/QA/About-Study.md)
-* [关于大学生活(TODO)](/QA/About-University-Life.md)
+* Q&A
+    * [关于竞赛中心](/QA/About-Competition-Center.md)
+    * [关于竞赛](/QA/About-Competiton.md)
+    * [关于学习](/QA/About-Study.md)
+    * [关于大学生活(TODO)](/QA/About-University-Life.md)
