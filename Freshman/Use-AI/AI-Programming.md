@@ -2,14 +2,14 @@
 
 > 切记AI只是提高效率的工具，请勿过度依赖AI，按需使用。
 
-| IDE名称                    | AI编程助手                   |  支持的编程语言                  |
+| IDE名称                    | AI编程助手                    |  支持的编程语言                  |
 |----------------------------|------------------------------|---------------------------------|
 | **Visual Studio Code**     | GitHub Copilot               |  JavaScript, Python, Java, C#, Go, Ruby等 |
 | **JetBrains系列**          | GitHub Copilot, Tabnine      | Java, Kotlin, Python, JavaScript, PHP等 |
 | **Eclipse**                | Tabnine                      |  Java, C/C++, Python, PHP, JavaScript等 |
-| **Microsoft Visual Studio** | IntelliCode                  | C#, C++, VB.NET, F#等            |
+| **Microsoft Visual Studio** | IntelliCode                 | C#, C++, VB.NET, F#等            |
 | **Replit**                 | Ghostwriter                  |  Python, JavaScript, HTML/CSS等   |
-| **CodeSandbox**            | AI助手（如CodeGPT）          |  JavaScript, TypeScript, HTML/CSS等 |
+| **CodeSandbox**            | CodeGPT                      |  JavaScript, TypeScript, HTML/CSS等 |
 | **Jupyter Notebook**       | Kite, Tabnine                |  Python                          |
 | **Xcode**                  | GitHub Copilot               |  Swift, Objective-C              |
 | **Android Studio**         | GitHub Copilot               |  Kotlin, Java                    |
