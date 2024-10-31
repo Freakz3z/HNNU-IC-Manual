@@ -1,4 +1,4 @@
-在[快速入门C++](/Freshman/Quick-Start-C.md)中提到了以下内容：
+在 [快速入门C++](/Freshman/Quick-Start-C.md)中提到了以下内容：
 
 - [C++在线编辑器](https://www.runoob.com/try/runcode.php?filename=helloworld&type=cpp)
 

@@ -2,7 +2,7 @@
 
 由于培养方案的改变，现在大一新生首先接触的编程语言为Python。但是笔者强烈建议掌握C/C++相关知识，方便之后的各种学习，至少与Python进度同步。
 
-![OI-Wiki语言基础目录](/Freshman/Image_Freshman/basic-lang-dic.png)
+![OI-Wiki语言基础目录](/Freshman/Image/image01.png)
 
 上图来源[OI-Wiki语言基础](https://oi-wiki.org/lang/)，从图中可以看出，使用C++作为第一门学习的语言可以速成很多语言。~~甚至不学C++需要急救~~
 
@@ -28,6 +28,6 @@
 
 # 更多的一些话
 
-![菜鸟教程](/Freshman/Image_Freshman/runnoob.com.png)
+![菜鸟教程](/Freshman/Image/image02.png)
 
 [菜鸟教程](https://www.runoob.com/)是一个适合大家从入门到熟悉各种语言和工具，有比较完整的教程的网站。很适合大家查阅一些相关知识。大家同样也可以从中了解到某些东西是由什么制作的。
