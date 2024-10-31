@@ -6,12 +6,11 @@
 * [另一本手册](/Another.md)
 
 ### 关于新生
-* 关于新生
-    * [你想要做什么](/Freshman/What-U-Want.md)
-    * [入门C++](/Freshman/Quick-Start-C.md)
-    * [选择适合的IDE](/Freshman/Choose-IDE.md)
-    * [AI编程(TODO)](/Freshman/AI-Programming.md)
-    * [选择你自己的路(TODO)](/Freshman/Choose-Your-Road.md)
+* [你想要做什么](/Freshman/What-U-Want.md)
+* [入门C++](/Freshman/Quick-Start-C.md)
+* [选择适合的IDE](/Freshman/Choose-IDE.md)
+* [AI编程(TODO)](/Freshman/AI-Programming.md)
+* [选择你自己的路(TODO)](/Freshman/Choose-Your-Road.md)
 
 ### OI
 * [声明](/OI/README.md)

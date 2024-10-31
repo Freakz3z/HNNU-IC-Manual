@@ -1,1 +1,1 @@
-# [点击去往另一本手册](https://siyis-organization.gitbook.io/hainnu-techlife-compass)
+**[点击去往另一本手册](https://siyis-organization.gitbook.io/hainnu-techlife-compass)**
