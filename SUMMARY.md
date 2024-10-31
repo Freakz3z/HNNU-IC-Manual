@@ -12,8 +12,8 @@
 * [AI编程(TODO)](/Freshman/AI-Programming.md)
 * [选择你自己的路(TODO)](/Freshman/Choose-Your-Road.md)
 
-### OI
-* [声明](/OI/README.md)
+### OI（程序设计竞赛）
+* [简介与声明](/OI/README.md)
 
 ### 开发
 * 施工中
