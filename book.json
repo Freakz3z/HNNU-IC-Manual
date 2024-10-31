@@ -5,5 +5,9 @@
     "structure": 
     {
     "readme": "README.md"
-    }
+    },
+    "siderbar":{
+        "title":"另一本手册",
+        "url":"https://siyis-organization.gitbook.io/hainnu-techlife-compass"
+    } 
 }
