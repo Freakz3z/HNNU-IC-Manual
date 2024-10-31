@@ -10,8 +10,9 @@
 * [入门编程语言](/Freshman/Quick-Start.md)
 * [选择适合的IDE](/Freshman/Choose-IDE.md)
 * AI的使用
-    *[AI编程](/Freshman/Use-AI/AI-Programming.md)
-* [选择你自己的路(TODO)](/Freshman/Choose-Your-Road.md)
+    * [AI编程](/Freshman/Use-AI/AI-Programming.md)
+    * [大模型的使用](/Freshman/Use-AI/LLM.md)
+* [选择你自己的路](/Freshman/Choose-Your-Road.md)
 
 ### OI（程序设计竞赛）
 * [简介与声明](/OI/README.md)
@@ -33,13 +34,13 @@
 * 常用工具
     * [Git](/Common/Tool/Git.md)
     * [命令行](/Common/Tool/Command-Line.md)
-    * [AI(TODO)](/Common/Tool/AI.md)
+    * [AI](/Common/Tool/AI.md)
 * 常用网站
-    * [GitHub(TODO)](/Common/Website/GitHub.md)
+    * [GitHub](/Common/Website/GitHub.md)
 
 ### Q&A
 * Q&A
     * [关于竞赛中心](/QA/About-Competition-Center.md)
     * [关于竞赛](/QA/About-Competiton.md)
     * [关于学习](/QA/About-Study.md)
-    * [关于大学生活(TODO)](/QA/About-University-Life.md)
+    * [关于大学生活](/QA/About-University-Life.md)
