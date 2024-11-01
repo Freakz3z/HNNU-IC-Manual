@@ -2,17 +2,17 @@
 
 ### 关于手册
 * [手册介绍](/README.md)
+* [免责声明](/Disclaimer.md)
 * [一些闲话](/Some-Words.md)
-* [另一本手册](/Another.md)
+* [手册指路](/Another.md)
 
 ### 关于新生
-* [你想要做什么](/Freshman/What-U-Want.md)
+* [选择自己的路](/Freshman/Choose-Way.md)
 * [入门编程语言](/Freshman/Quick-Start.md)
 * [选择适合的IDE](/Freshman/Choose-IDE.md)
 * AI的使用
     * [AI编程](/Freshman/Use-AI/AI-Programming.md)
-    * [大模型的使用](/Freshman/Use-AI/LLM.md)
-* [选择你自己的路](/Freshman/Choose-Way.md)
+    <!-- * [大模型的使用](/Freshman/Use-AI/LLM.md) -->
 
 ### OI（程序设计竞赛）
 * [简介与声明](/OI/README.md)
@@ -34,12 +34,13 @@
 * 常用工具
     * [Git](/Common/Tool/Git.md)
     * [命令行](/Common/Tool/Command-Line.md)
-    * [AI](/Common/Tool/AI.md)
+    <!-- * [AI](/Common/Tool/AI.md) -->
 * 常用网站
     * [GitHub](/Common/Website/GitHub.md)
 
 ### Q&A
 * Q&A
+    * [Q&A简介](/QA/README.md)
     * [关于竞赛中心](/QA/About-Competition-Center.md)
     * [关于竞赛](/QA/About-Competiton.md)
     * [关于学习](/QA/About-Study.md)
