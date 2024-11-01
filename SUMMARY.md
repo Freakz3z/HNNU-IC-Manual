@@ -12,7 +12,7 @@
 * AI的使用
     * [AI编程](/Freshman/Use-AI/AI-Programming.md)
     * [大模型的使用](/Freshman/Use-AI/LLM.md)
-* [选择你自己的路](/Freshman/Choose-Your-Road.md)
+* [选择你自己的路](/Freshman/Choose-Way.md)
 
 ### OI（程序设计竞赛）
 * [简介与声明](/OI/README.md)
