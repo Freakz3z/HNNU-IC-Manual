@@ -2,9 +2,10 @@
 
 ### 关于手册
 * [手册介绍](/README.md)
-* [免责声明](/Disclaimer.md)
-* [一些闲话](/Some-Words.md)
-* [手册指路](/Another.md)
+* [联系笔者](/Mannual/Contact.md)
+* [免责声明](/Mannual/Disclaimer.md)
+* [一些闲话](/Mannual/Some-Words.md)
+* [手册指路](/Mannual/Another.md)
 
 ### 关于新生/关于基础
 * [选择自己的路](/Basic/Choose-Way.md)
@@ -14,8 +15,9 @@
     * [AI编程](/Basic/Use-AI/AI-Programming.md)
     <!-- * [大模型的使用](/Basic/Use-AI/LLM.md) -->
 
-### OI（程序设计竞赛）
-* [简介与声明](/OI/README.md)
+### OI
+* [简介](/OI/README.md)
+* [声明](/OI/Disclaimer.md)
 
 ### 开发
 * 前端
