@@ -20,11 +20,12 @@
 ### 开发
 * 前端
     * [先导](/Development/Front-End/README.md)
+<!-- *  后端 -->
 
 <!-- ### 运维
-* 施工中
+* 施工中 -->
 
-### 深度学习
+<!-- ### 深度学习
 * 施工中 -->
 
 ### 常用
@@ -41,7 +42,6 @@
 
 ### Q&A
 * Q&A
-    * [Q&A简介](/QA/README.md)
     * [关于竞赛中心](/QA/About-Competition-Center.md)
     * [关于竞赛](/QA/About-Competiton.md)
     * [关于学习](/QA/About-Study.md)
