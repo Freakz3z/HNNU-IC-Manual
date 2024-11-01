@@ -6,24 +6,28 @@
 * [一些闲话](/Some-Words.md)
 * [手册指路](/Another.md)
 
-### 关于新生
-* [选择自己的路](/Freshman/Choose-Way.md)
-* [入门编程语言](/Freshman/Quick-Start.md)
-* [选择适合的IDE](/Freshman/Choose-IDE.md)
+### 关于新生/关于基础
+* [选择自己的路](/Basic/Choose-Way.md)
+* [入门编程语言](/Basic/Quick-Start.md)
+* [选择适合的IDE](/Basic/Choose-IDE.md)
 * AI的使用
-    * [AI编程](/Freshman/Use-AI/AI-Programming.md)
-    <!-- * [大模型的使用](/Freshman/Use-AI/LLM.md) -->
+    * [AI编程](/Basic/Use-AI/AI-Programming.md)
+    <!-- * [大模型的使用](/Basic/Use-AI/LLM.md) -->
 
 ### OI（程序设计竞赛）
 * [简介与声明](/OI/README.md)
 
-<!-- ### 开发
-* 施工中
+### 开发
+* 前端
+    * [先导](/Development/Front-End/README.md)
+    <!-- * [HTML](/Develop/Front-End/HTML.md)
+    * [CSS](/Develop/Front-End/CSS.md)
+    * [JavaScript](/Develop/Front-End/JavaScript.md) -->
 
 ### 运维
 * 施工中
 
-### 深度学习
+<!-- ### 深度学习
 * 施工中 -->
 
 ### 常用
