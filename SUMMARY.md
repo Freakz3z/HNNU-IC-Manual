@@ -17,17 +17,14 @@
 ### OI（程序设计竞赛）
 * [简介与声明](/OI/README.md)
 
-### 开发
+<!-- ### 开发
 * 前端
     * [先导](/Development/Front-End/README.md)
-    <!-- * [HTML](/Develop/Front-End/HTML.md)
-    * [CSS](/Develop/Front-End/CSS.md)
-    * [JavaScript](/Develop/Front-End/JavaScript.md) -->
 
 ### 运维
 * 施工中
 
-<!-- ### 深度学习
+### 深度学习
 * 施工中 -->
 
 ### 常用
