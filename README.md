@@ -12,7 +12,6 @@
 * [手册指路](/Mannual/Another.md)
 
 ## 关于新生/关于基础
-* [选择自己的路](/Basic/Choose-Way.md)
 * [入门编程语言](/Basic/Quick-Start.md)
 * [选择适合的IDE](/Basic/Choose-IDE.md)
 * AI的使用
@@ -56,4 +55,4 @@
     * [关于大学生活](/QA/About-University-Life.md)
 
 ## TODO
-* [代办列表](/Mannual/TODO.md)
+* [待办列表](/Mannual/TODO.md)
