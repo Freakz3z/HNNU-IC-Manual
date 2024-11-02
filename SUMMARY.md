@@ -14,6 +14,8 @@
 * AI的使用
     * [AI编程](/Basic/Use-AI/AI-Programming.md)
     <!-- * [大模型的使用](/Basic/Use-AI/LLM.md) -->
+### 日常生活
+* [先导]
 
 ### OI
 * [简介](/OI/README.md)
