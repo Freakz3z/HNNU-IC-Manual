@@ -9,7 +9,7 @@
 * [联系笔者](/Mannual/Contact.md)
 * [免责声明](/Mannual/Disclaimer.md)
 * [一些闲话](/Mannual/Some-Words.md)
-* [手册指路](/Mannual/Another.md)
+<!-- * [手册指路](/Mannual/Another.md) -->
 
 ## 关于新生/关于基础
 * [入门编程语言](/Basic/Quick-Start.md)
