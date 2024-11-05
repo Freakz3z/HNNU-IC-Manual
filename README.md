@@ -27,13 +27,17 @@
 ## 开发
 * 前端
     * [先导](/Development/Front-End/README.md)
+    <!-- * [HTML](/Development/Front-End/HTML.md)
+    * [CSS](/Development/Front-End/CSS.md)
+    * [JavaScript](/Development/Front-End/JS.md) -->
 <!-- *  后端 -->
 
 <!-- ### 运维
 * 施工中 -->
 
-<!-- ### 人工智能
-* 施工中 -->
+### 人工智能
+* [先导](/AI/README.md)
+<!-- * [框架](/AI/Framework.md) -->
 
 ## 常用
 * 常用命令

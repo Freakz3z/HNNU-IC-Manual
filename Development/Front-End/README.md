@@ -112,4 +112,4 @@
 
 同时，在这里指路一个非常好看的个人主页 **[指路 => GitHub——blog-home](https://github.com/wuhobin/blog-home)**
 
-![该个人主页截图](image03.webp)
+![该个人主页截图](Image/image03.webp)
