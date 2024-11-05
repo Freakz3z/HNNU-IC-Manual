@@ -100,7 +100,7 @@
 
 # 更复杂一点的
 
-这里晒一个简单的个人主页，仅由HTML、CSS、JavaScript编写，没有使用任何框架。
+这里晒一个简单的个人主页，仅由HTML、CSS、JavaScript编写。
 
 ![简单的个人主页](Image/image01.png)
 
@@ -108,8 +108,8 @@
 
 ![文件结构](Image/image02.png)
 
-> 可以忽略font,music,pic文件夹和favicon.ico文件
+> 可以忽略font,music,pic文件夹和favicon.ico文件为了防止API调用过多这里就不给出具体代码了。
 
-为了防止API调用过多这里就不给出具体代码了。同时，在这里指路一个非常好看的个人主页 **[blog-home](https://github.com/wuhobin/blog-home)**
+同时，在这里指路一个非常好看的个人主页 **[指路 => GitHub——blog-home](https://github.com/wuhobin/blog-home)**
 
 ![该个人主页截图](image03.webp)
