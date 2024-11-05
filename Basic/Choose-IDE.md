@@ -30,9 +30,6 @@
 
 > Java开发的首选，个人认为使用体验跟VSCode类似。
 
-> 某人强推下图
-![JetBrains IDEs](Image/image02.png)
-
 ## 3. [PyCharm](https://www.jetbrains.com/pycharm/)
 - **适用语言**：Python
 - **优势**：
@@ -79,4 +76,7 @@
 
 有的同学可能会问，能不能一次性下载所有的IDE以备后面的学习和开发使用。答案当然是肯定的，但是不同的IDE间可能会出现一些问题，比如如果先下载了VS后再去VSCode中使用C/C++就可能会出现一些问题，需要额外的花时间去解决。这当然不是什么非常大的事情，但是还是建议大家根据自己的需求来选择适合自己的IDE。
 
-# [更多的代码编辑器讯息](https://oi-wiki.org/tools/)
+同时某人强推下图
+![JetBrains IDEs](Image/image02.png)
+
+# [更多的代码编辑器](https://oi-wiki.org/tools/)

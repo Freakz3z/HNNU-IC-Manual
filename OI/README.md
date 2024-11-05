@@ -1,5 +1,9 @@
-在本手册中**OI** 指的是 **“程序设计竞赛”（Olympiad in Informatics**，而非某个具体的竞赛，也可理解为算法竞赛。
+> 以下内容均引用自[OI Wiki](https://oi-wiki.org/)
 
-> 本章中的内容可以理解为算法、数据结构等一系列东西。大家理解即可，不用去细究概念。
+**OI** （Olympiad in Informatics，信息学奥林匹克竞赛）在中国起源于 1984 年，是五大高中学科竞赛之一。自 1989 年起，每年还会选拔出国家集训队选手准备 IOI (International Olympiad in Informatics，国际信息学奥林匹克竞赛）。
 
-![一些相关竞赛](Image/image01.png)
+**[OI赛事与赛制](https://cms.oi-wiki.org/intro/oi/)****
+
+**ICPC** （International Collegiate Programming Contest, 国际大学生程序设计竞赛）由 ICPC 基金会（ICPC Foundation）举办，是最具影响力的大学生计算机竞赛。ICPC 主要分为区域赛（Regionals）和总决赛（World Finals）两部分。由于以前 ACM 赞助这个竞赛，也有很多人习惯叫它 ACM 竞赛。
+
+**[ICPC/CCPC赛事与赛制](https://cms.oi-wiki.org/intro/icpc/)**

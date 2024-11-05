@@ -19,6 +19,4 @@
 
 ![洛谷题单](Image/image03.png)
 
-推荐以上图的顺序进行学习。
-
-> [指路 => 洛谷题单广场](https://www.luogu.com.cn/training/list)
+推荐以上图的顺序进行学习。**[指路 => 洛谷题单广场](https://www.luogu.com.cn/training/list)**
