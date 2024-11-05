@@ -4,7 +4,7 @@
 
 - [Dev-C++：适合初学者的IDE](https://sourceforge.net/projects/orwelldevcpp/)
 
-在本Page中，编程语言将不止限制于C/C++，笔者也根据自己的使用体验来聊一聊各种IDE，希望你能选择到适合自己的IDE。
+在本文中，编程语言将不止限制于C/C++，笔者也根据自己的使用体验来聊一聊各种IDE，希望你能选择到适合自己的IDE。
 
 # 对各种IDE的分析评价
 
@@ -17,7 +17,7 @@
   - 轻量级，启动速度快。
 - **用户群体**：前端开发者、全栈开发者、数据科学家
 
-> 值得一提的是，笔者编写这本手册使用的就是VScode，包括项目的开发也是。VSCode是目前为止笔者使用的最舒服的IDE而没有之一。几乎支持所有的语言和框架，这点在笔者看来对其他IDE有些降维打击了，大力推崇。
+> 值得一提的是，笔者编写这本手册使用的就是VSCode，包括项目的开发也是。VSCode是目前为止笔者使用的最舒服的IDE而没有之一。几乎支持所有的语言和框架，这点在笔者看来对其他IDE有些降维打击了，大力推崇。~~但VSCode被某人评价为文本编辑器。~~
 
 ## 2. [IntelliJ IDEA](https://www.jetbrains.com/idea/)
 - **适用语言**：Java, Kotlin, Groovy, Scala, JavaScript, SQL 等
@@ -28,7 +28,10 @@
   - 优秀的性能，适合大型项目。
 - **用户群体**：Java 开发者、企业级应用开发者
 
-> 几乎是Java开发的首选，个人认为使用体验跟VSCode类似。
+> Java开发的首选，个人认为使用体验跟VSCode类似。
+
+> 某人强推下图
+![JetBrains IDEs](Image/image02.png)
 
 ## 3. [PyCharm](https://www.jetbrains.com/pycharm/)
 - **适用语言**：Python
