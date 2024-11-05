@@ -43,8 +43,7 @@
 * 常用工具
     * [Git](/Common/Tool/Git.md)
     * [命令行](/Common/Tool/Command-Line.md)
-* 常用网站
-    * [GitHub](/Common/Website/GitHub.md)
+* [常用网站](/Common/Website.md)
 
 ## Q&A
 * Q&A
