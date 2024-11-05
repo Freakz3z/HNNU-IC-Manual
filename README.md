@@ -39,16 +39,15 @@
 * [先导](/AI/README.md)
 <!-- * [框架](/AI/Framework.md) -->
 
-## 常用
-* 常用命令
+## 常用/推荐
+* 命令
     * [Git](/Common/Command/Git.md)
     * [Markdown](/Common/Command/Markdown.md)
     * [MySQL](/Common/Command/MySQL.md)
-* 常用工具
+* 工具
     * [Git](/Common/Tool/Git.md)
     * [命令行](/Common/Tool/Command-Line.md)
-* 常用网站
-    * [GitHub](/Common/Website/GitHub.md)
+* [网站](/Common/Website.md)
 
 ## Q&A
 * Q&A
