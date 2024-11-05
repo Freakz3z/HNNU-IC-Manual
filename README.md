@@ -16,7 +16,7 @@
 * [选择适合的IDE](/Basic/Choose-IDE.md)
 * AI的使用
     * [AI编程](/Basic/Use-AI/AI-Programming.md)
-    <!-- * [大模型的使用](/Basic/Use-AI/LLM.md) -->
+    * [大模型的使用](/Basic/Use-AI/LLM.md)
 ## 日常生活
 * [先导](/Daily/README.md)
 
@@ -47,7 +47,6 @@
 * 常用工具
     * [Git](/Common/Tool/Git.md)
     * [命令行](/Common/Tool/Command-Line.md)
-    <!-- * [AI](/Common/Tool/AI.md) -->
 * 常用网站
     * [GitHub](/Common/Website/GitHub.md)
 

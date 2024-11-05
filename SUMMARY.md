@@ -43,7 +43,6 @@
 * 常用工具
     * [Git](/Common/Tool/Git.md)
     * [命令行](/Common/Tool/Command-Line.md)
-    <!-- * [AI](/Common/Tool/AI.md) -->
 * 常用网站
     * [GitHub](/Common/Website/GitHub.md)
 
