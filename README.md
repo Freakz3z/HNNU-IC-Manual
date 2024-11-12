@@ -43,6 +43,7 @@
     * [Git](/Common/Command/Git.md)
     * [Markdown](/Common/Command/Markdown.md)
     * [MySQL](/Common/Command/MySQL.md)
+    * [Conda](/Common/Command/Conda.md)
 * 工具
     * [Git](/Common/Tool/Git.md)
     * [命令行](/Common/Tool/Command-Line.md)
