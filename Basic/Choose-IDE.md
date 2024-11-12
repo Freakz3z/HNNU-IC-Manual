@@ -1,10 +1,10 @@
-在 [快速入门C++](/Freshman/Quick-Start-C.md)中提到了以下内容：
+在 [入门编程语言](/Basic/Quick-Start.md) 中提到了以下内容：
 
 - [C++在线编辑器](https://www.runoob.com/try/runcode.php?filename=helloworld&type=cpp)
 
 - [Dev-C++：适合初学者的IDE](https://sourceforge.net/projects/orwelldevcpp/)
 
-在本文中，编程语言将不止限制于C/C++，笔者也根据自己的使用体验来聊一聊各种IDE，希望你能选择到适合自己的IDE。
+在本文中，编程语言将不止限制于C/C++，笔者也根据自己的使用体验和实际情况来聊一聊各种IDE，希望你能选择到适合自己的IDE。
 
 # 对各种IDE的分析评价
 
