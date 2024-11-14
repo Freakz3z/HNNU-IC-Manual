@@ -43,6 +43,11 @@
 * 常用网站
     * [GitHub](/Common/Website/GitHub.md)
 
+## 杂项
+* [简介](/Mass/README.md)
+* [1](/Mass/1.md)
+* [2](/Mass/2.md)
+
 ## Q&A
 * Q&A
     * [关于竞赛中心](/QA/About-Competition-Center.md)
