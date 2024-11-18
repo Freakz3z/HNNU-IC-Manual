@@ -49,6 +49,12 @@
     * [命令行](/Common/Tool/Command-Line.md)
 * [网站](/Common/Website.md)
 
+## 杂项
+* [简介](/Mass/README.md)
+* 吐槽
+    * [1](/Mass/1.md)
+    * [2](/Mass/2.md)
+
 ## Q&A
 * Q&A
     * [关于竞赛中心](/QA/About-Competition-Center.md)
