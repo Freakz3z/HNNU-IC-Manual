@@ -1,0 +1,68 @@
+> **部分网站由AI推荐，请大家各取所需。后续会细化分类并持续更新。**
+
+# 1. 编程与算法
+
+- **[LeetCode](https://leetcode.com/)**  
+  在线编程题平台，提供丰富的算法和数据结构练习，适合准备技术面试的程序员。
+
+- **[牛客网](https://www.nowcoder.com/)**  
+  在线编程练习和竞赛平台，提供编程题库和面试相关资源，适合求职者和编程爱好者。
+
+- **[OI Wiki](https://oi-wiki.org/)**  
+  面向程序设计竞赛的知识库，提供算法、数据结构和编程题目的详细解释和示例。
+
+- **[GeeksforGeeks](https://www.geeksforgeeks.org/)**  
+  提供计算机科学和编程的教程、算法和数据结构的详细解释。
+
+- **[Codecademy](https://www.codecademy.com/)**  
+  提供互动式编程课程，涵盖多种编程语言和技术栈，适合初学者学习。
+
+- **[Project Euler](https://projecteuler.net/)**  
+  提供数学和计算机编程相关的挑战，适合喜欢数学和算法的人。
+
+# 2. 机器学习与深度学习
+
+- **[Hugging Face](https://huggingface.co/)**  
+  开源社区，专注于自然语言处理和机器学习，提供预训练模型和数据集。
+
+- **[Kaggle](https://www.kaggle.com/)**  
+  数据科学和机器学习的社区，提供数据集、竞赛和学习资源。
+
+- **[TensorFlow](https://www.tensorflow.org/)**  
+  Google 开源的机器学习框架，提供丰富的文档和教程。
+
+- **[PyTorch](https://pytorch.org/)**  
+  Facebook 开源的深度学习框架，注重灵活性和动态计算图。
+
+# 3. 计算机科学与技术
+
+- **[GitHub](https://github.com/)**  
+  版本控制和代码托管平台，开发者可以在上面共享、协作和管理项目。
+
+- **[cppreference](https://en.cppreference.com/w/)**  
+  C++ 标准库的在线参考文档，提供 C++ 语言和库的详细信息。
+
+- **[Coursera](https://www.coursera.org/)**  
+  提供来自各大高校和机构的在线课程，涵盖计算机科学、数据科学等多个领域。
+
+- **[edX](https://www.edx.org/)**  
+  提供高质量的在线课程，特别是计算机科学和技术课程。
+
+- **[W3Schools](https://www.w3schools.com/)**  
+  提供网页开发技术（如 HTML、CSS、JavaScript）的学习资源。
+
+# 4. 开源与社区
+
+- **[SourceForge](https://sourceforge.net/)**  
+  开源软件开发平台，提供代码托管和项目管理服务。
+
+- **[Bitbucket](https://bitbucket.org/)**  
+  Git 和 Mercurial 代码托管服务，支持团队协作和项目管理。
+
+- **[OpenAI](https://openai.com/)**  
+  人工智能研究组织，提供关于 AI 和机器学习的研究成果和开发资源。
+
+# 5. 其他资源
+
+- **[Kaggle](https://www.kaggle.com/)**  
+  数据科学和机器学习的在线竞赛平台，提供数据集和社区交流。

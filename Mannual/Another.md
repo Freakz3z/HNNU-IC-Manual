@@ -1,1 +1,0 @@
-**[点击去往另一本手册hainnu-techlife-compass](https://siyis-organization.gitbook.io/hainnu-techlife-compass)**

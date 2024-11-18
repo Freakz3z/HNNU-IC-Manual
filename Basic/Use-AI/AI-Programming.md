@@ -18,4 +18,4 @@
 | **PHPStorm**               | GitHub Copilot, Tabnine      | PHP, JavaScript, HTML/CSS等     |
 | **Sublime Text**           | Kite, Tabnine                |  Python, JavaScript, Ruby等      |
 
-> 这里只是举了一些例子，还有一些插件如FiitenCode在此并未列出。
+> 这里只是举了一些例子，还有一些插件如**Fitten Code**在此并未列出。

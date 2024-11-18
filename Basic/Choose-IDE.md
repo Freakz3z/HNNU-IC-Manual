@@ -1,10 +1,10 @@
-在 [快速入门C++](/Freshman/Quick-Start-C.md)中提到了以下内容：
+在 [入门编程语言](/Basic/Quick-Start.md) 中提到了以下内容：
 
 - [C++在线编辑器](https://www.runoob.com/try/runcode.php?filename=helloworld&type=cpp)
 
 - [Dev-C++：适合初学者的IDE](https://sourceforge.net/projects/orwelldevcpp/)
 
-在本Page中，编程语言将不止限制于C/C++，笔者也根据自己的使用体验来聊一聊各种IDE，希望你能选择到适合自己的IDE。
+在本文中，编程语言将不止限制于C/C++，笔者也根据自己的使用体验和实际情况来聊一聊各种IDE，希望你能选择到适合自己的IDE。
 
 # 对各种IDE的分析评价
 
@@ -17,7 +17,7 @@
   - 轻量级，启动速度快。
 - **用户群体**：前端开发者、全栈开发者、数据科学家
 
-> 值得一提的是，笔者编写这本手册使用的就是VScode，包括项目的开发也是。VSCode是目前为止笔者使用的最舒服的IDE而没有之一。几乎支持所有的语言和框架，这点在笔者看来对其他IDE有些降维打击了，大力推崇。
+> 值得一提的是，笔者编写这本手册使用的就是VSCode，包括项目的开发也是。VSCode是目前为止笔者使用的最舒服的IDE而没有之一。几乎支持所有的语言和框架，这点在笔者看来对其他IDE有些降维打击了，大力推崇。~~但VSCode被某人评价为文本编辑器。~~
 
 ## 2. [IntelliJ IDEA](https://www.jetbrains.com/idea/)
 - **适用语言**：Java, Kotlin, Groovy, Scala, JavaScript, SQL 等
@@ -28,7 +28,7 @@
   - 优秀的性能，适合大型项目。
 - **用户群体**：Java 开发者、企业级应用开发者
 
-> 几乎是Java开发的首选，个人认为使用体验跟VSCode类似。
+> Java开发的首选，个人认为使用体验跟VSCode类似。
 
 ## 3. [PyCharm](https://www.jetbrains.com/pycharm/)
 - **适用语言**：Python
@@ -76,4 +76,7 @@
 
 有的同学可能会问，能不能一次性下载所有的IDE以备后面的学习和开发使用。答案当然是肯定的，但是不同的IDE间可能会出现一些问题，比如如果先下载了VS后再去VSCode中使用C/C++就可能会出现一些问题，需要额外的花时间去解决。这当然不是什么非常大的事情，但是还是建议大家根据自己的需求来选择适合自己的IDE。
 
-# [更多的代码编辑器讯息](https://oi-wiki.org/tools/)
+同时某人强推下图
+![JetBrains IDEs](Image/image02.png)
+
+# [更多的代码编辑器](https://oi-wiki.org/tools/)
