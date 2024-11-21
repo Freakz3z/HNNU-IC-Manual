@@ -23,6 +23,17 @@ Git 是一个分布式版本控制系统，广泛用于源代码管理和协作�
 
 > 详细的用法可以参考[Git的常用命令](/Common/Command/Git.md)
 
+## Git与GitHub
+```
+echo "# example" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Freakz3z/example.git
+git push -u origin main
+```
+
 ## 使用场景
 
 - **软件开发**：广泛用于开源和商业软件项目的版本控制。
