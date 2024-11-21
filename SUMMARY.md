@@ -50,6 +50,9 @@
 * 吐槽
     * [1](/Mass/1.md)
     * [2](/Mass/2.md)
+* 友情链接
+    * [Python学习笔记与作业整理](https://github.com/panda-lsy/Python-Learning-Notes-Homework)
+
 
 ## Q&A
 * Q&A
