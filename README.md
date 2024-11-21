@@ -55,14 +55,11 @@
     * [1](/Mass/1.md)
     * [2](/Mass/2.md)
 
-## 友情链接
-* [Python学习笔记与作业整理](https://github.com/panda-lsy/Python-Learning-Notes-Homework)
-
 ## Q&A
 * Q&A
     * [关于竞赛中心](/QA/About-Competition-Center.md)
     * [关于竞赛](/QA/About-Competiton.md)
     * [关于学习](/QA/About-Study.md)
 
-## TODO
-* [待办列表](/Mannual/TODO.md)
+## 友情链接
+* [Python学习笔记与作业整理](https://github.com/panda-lsy/Python-Learning-Notes-Homework)
