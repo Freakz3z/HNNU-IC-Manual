@@ -18,6 +18,7 @@
 ## OI
 * [简介](/OI/README.md)
 * [声明](/OI/Disclaimer.md)
+* [OI环境配置](https://www.luogu.com.cn/article/3lxrdehh)
 
 ## 开发
 * 前端
