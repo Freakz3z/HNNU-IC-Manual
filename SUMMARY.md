@@ -1,11 +1,10 @@
 # Summary
 
 ## 关于手册
-* 关于手册
-    * [手册介绍](/README.md)
-    * [联系笔者](/Mannual/Contact.md)
-    * [免责声明](/Mannual/Disclaimer.md)
-    * [一些闲话](/Mannual/Some-Words.md)
+* [手册介绍](/README.md)
+* [联系笔者](/Mannual/Contact.md)
+* [免责声明](/Mannual/Disclaimer.md)
+* [一些闲话](/Mannual/Some-Words.md)
 
 ## 关于新生/关于基础
 * [入门编程语言](/Basic/Quick-Start.md)
