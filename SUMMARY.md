@@ -1,10 +1,11 @@
 # Summary
 
 ## 关于手册
-* [手册介绍](/README.md)
-* [联系笔者](/Mannual/Contact.md)
-* [免责声明](/Mannual/Disclaimer.md)
-* [一些闲话](/Mannual/Some-Words.md)
+* 关于手册
+    * [手册介绍](/README.md)
+    * [联系笔者](/Mannual/Contact.md)
+    * [免责声明](/Mannual/Disclaimer.md)
+    * [一些闲话](/Mannual/Some-Words.md)
 
 ## 关于新生/关于基础
 * [入门编程语言](/Basic/Quick-Start.md)
@@ -50,9 +51,9 @@
 * 吐槽
     * [1](/Mass/1.md)
     * [2](/Mass/2.md)
-* 友情链接
-    * [Python学习笔记与作业整理](https://github.com/panda-lsy/Python-Learning-Notes-Homework)
 
+## 友情链接
+* [Python学习笔记与作业整理](https://github.com/panda-lsy/Python-Learning-Notes-Homework)
 
 ## Q&A
 * Q&A
