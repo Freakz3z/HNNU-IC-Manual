@@ -22,6 +22,7 @@
 ## OI
 * [简介](/OI/README.md)
 * [声明](/OI/Disclaimer.md)
+* [OI环境配置](https://www.luogu.com.cn/article/3lxrdehh)
 
 ## 开发
 * 前端
@@ -51,9 +52,11 @@
 
 ## 杂项
 * [简介](/Mass/README.md)
+* [数据工程师学习手册](https://github.com/DataExpert-io/data-engineer-handbook)
 * 吐槽
     * [1](/Mass/1.md)
     * [2](/Mass/2.md)
+    * [3](/Mass/3.md)
 
 ## Q&A
 * Q&A
