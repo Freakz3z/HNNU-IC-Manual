@@ -33,6 +33,7 @@
 
 ### 人工智能
 * [先导](/AI/README.md)
+* [环境搭建](/AI/Env.md)
 <!-- * [框架](/AI/Framework.md) -->
 
 ## 常用/推荐
@@ -50,9 +51,7 @@
 * [简介](/Mass/README.md)
 * [数据工程师学习手册](https://github.com/DataExpert-io/data-engineer-handbook)
 * 吐槽
-    * [1](/Mass/1.md)
-    * [2](/Mass/2.md)
-    * [3](/Mass/3.md)
+    * [RPA](/Mass/RPA.md)
 
 ## Q&A
 * Q&A
