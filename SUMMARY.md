@@ -19,7 +19,6 @@
 * [培养方案](/日常/培养方案.md)
 
 ## OI
-* [简介](/OI/简介.md)
 * [声明](/OI/声明.md)
 * [OI环境配置](https://www.luogu.com.cn/article/3lxrdehh)
 
