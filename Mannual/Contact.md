@@ -7,5 +7,3 @@
 ## 2. [GitHub](https://github.com/Freakz3z/HNNU-IC-Manual)
 
 点击此链接并提出Issue，**如果觉得不错可以Star一下喵，你们的Star是我更新最大的动力喵~**
-
-## 3. [博客](https://freakk.love/)
