@@ -2,62 +2,56 @@
 
 ## 关于手册
 * [手册介绍](/README.md)
-* [联系笔者](/Mannual/Contact.md)
-* [免责声明](/Mannual/Disclaimer.md)
-* [一些闲话](/Mannual/Some-Words.md)
+* [联系方式](/手册/联系方式.md)
+* [免责声明](/手册/免责声明.md)
+* [一些闲话](/手册/一些闲话.md)
 
 ## 关于新生/关于基础
-* [入门编程语言](/Basic/Quick-Start.md)
-* [选择适合的IDE](/Basic/Choose-IDE.md)
-* AI的使用
-    * [AI编程](/Basic/Use-AI/AI-Programming.md)
-    * [大模型的使用](/Basic/Use-AI/LLM.md)
+* [入门编程语言](/入门/快速入门编程语言.md)
+* [选择适合的IDE](/入门/选择IDE.md)
+* [AI编程](/入门/AI编程.md)
+* [大模型的使用](/入门/大模型.md)
+
 ## 日常生活
-* [先导](/Daily/README.md)
+* [先导](/日常/README.md)
 
 ## OI
-* [简介](/OI/README.md)
-* [声明](/OI/Disclaimer.md)
+* [简介](/OI/简介.md)
+* [声明](/OI/声明.md)
 * [OI环境配置](https://www.luogu.com.cn/article/3lxrdehh)
 
 ## 开发
 * 前端
-    * [先导](/Development/Front-End/README.md)
-    <!-- * [HTML](/Development/Front-End/HTML.md)
-    * [CSS](/Development/Front-End/CSS.md)
-    * [JavaScript](/Development/Front-End/JS.md) -->
-<!-- *  后端 -->
-
-<!-- ### 运维
-* 施工中 -->
+    * [先导](/开发/前端/先导.md)
+*  后端
+    * []
 
 ### 人工智能
-* [先导](/AI/README.md)
-* [环境搭建](/AI/Env.md)
+* [先导](/AI/先导.md)
+* [环境搭建](/AI/环境搭建.md)
 <!-- * [框架](/AI/Framework.md) -->
 
 ## 常用/推荐
 * 命令
-    * [Git](/Common/Command/Git.md)
-    * [Markdown](/Common/Command/Markdown.md)
-    * [MySQL](/Common/Command/MySQL.md)
-    * [Conda](/Common/Command/Conda.md)
+    * [Git](/常用/命令/Git.md)
+    * [Markdown](/常用/命令/Markdown.md)
+    * [MySQL](/常用/命令/MySQL.md)
+    * [pip](/常用/命令/pip.md)
+    * [Conda](/常用/命令/Conda.md)
 * 工具
-    * [Git](/Common/Tool/Git.md)
-    * [命令行](/Common/Tool/Command-Line.md)
-* [网站](/Common/Website.md)
+    * [Git](/常用/工具/Git.md)
+    * [命令行](/常用/工具/命令行.md)
+* [网站](/常用/网站.md)
 
 ## 杂项
-* [简介](/Mass/README.md)
-* [数据工程师学习手册](https://github.com/DataExpert-io/data-engineer-handbook)
-* 吐槽
-    * [RPA](/Mass/RPA.md)
+* [简介](/杂项/简介.md)
+* [RPA](/杂项/RPA.md)
 
 ## Q&A
 * Q&A
-    * [关于竞赛中心](/QA/About-Competition-Center.md)
-    * [关于竞赛](/QA/About-Competiton.md)
-    * [关于学习](/QA/About-Study.md)
+    * [关于竞赛中心](/QA/关于竞赛中心.md)
+    * [关于竞赛](/QA/关于竞赛.md)
+    * [关于学习](/QA/关于学习.md)
 
 ## 友情链接
 * [Python学习笔记与作业整理](https://github.com/panda-lsy/Python-Learning-Notes-Homework)
