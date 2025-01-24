@@ -1,7 +1,7 @@
 # Summary
 
 ## 关于手册
-* [Introduction](README.md)
+* [手册介绍](README.md)
 * 关于手册
     * [联系方式](手册/联系方式.md)
     * [免责声明](手册/免责声明.md)
