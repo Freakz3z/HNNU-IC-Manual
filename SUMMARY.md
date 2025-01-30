@@ -1,8 +1,7 @@
 # Summary
 
-## 关于手册
-* [手册介绍](README.md)
 * 关于手册
+    * [手册介绍](README.md)
     * [联系方式](手册/联系方式.md)
     * [免责声明](手册/免责声明.md)
     * [一些闲话](手册/一些闲话.md)
@@ -66,3 +65,4 @@
 
 ## 友情链接
 * [Python学习笔记与作业整理](https://github.com/panda-lsy/Python-Learning-Notes-Homework)
+
