@@ -61,7 +61,3 @@
     * [关于竞赛中心](QA/关于竞赛中心.md)
     * [关于竞赛](QA/关于竞赛.md)
     * [关于学习](QA/关于学习.md)
-
-## 友情链接
-* [Python学习笔记与作业整理](https://github.com/panda-lsy/Python-Learning-Notes-Homework)
-
