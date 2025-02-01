@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
+* [README](README.md)
 * 关于手册
     * [联系方式](手册/联系方式.md)
     * [免责声明](手册/免责声明.md)
