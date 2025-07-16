@@ -19,6 +19,8 @@
 
 ## OI
 * [声明](OI/声明.md)
+* [蓝桥杯](OI/蓝桥杯.md)
+* [团队天梯赛](OI/团队天梯赛.md)
 * [OI环境配置](https://www.luogu.com.cn/article/3lxrdehh)
 
 ## 开发
