@@ -1,63 +1,72 @@
-# Summary
+# Table of contents
 
 ## 关于手册
+
 * [README](README.md)
-* [联系方式](手册/联系方式.md)
-* [如何提交PR](手册/如何提交PR.md)
-* [免责声明](手册/免责声明.md)
-* [一些闲话-来自Freak](手册/一些闲话.md)
+* [联系方式](guan-yu-shou-ce/lian-xi-fang-shi.md)
+* [如何提交 PR](guan-yu-shou-ce/ru-he-ti-jiao-pr.md)
+* [免责声明](guan-yu-shou-ce/mian-ze-sheng-ming.md)
+* [一些闲话-来自Freak](guan-yu-shou-ce/yi-xie-xian-hua.md)
 
 ## 关于新生/基础/入门
-* [入门编程语言](入门/快速入门编程语言.md)
-* [选择IDE](入门/选择IDE.md)
-* [AI编程](入门/AI编程.md)
+
+* [入门编程语言](guan-yu-xin-sheng-ji-chu-ru-men/kuai-su-ru-men-bian-cheng-yu-yan.md)
+* [选择 IDE](guan-yu-xin-sheng-ji-chu-ru-men/xuan-ze-ide.md)
+* [AI 编程](guan-yu-xin-sheng-ji-chu-ru-men/ai-bian-cheng.md)
 
 ## 日常学习
-* [介绍](日常/介绍.md)
-* [培养方案](日常/培养方案.md)
-* [阶段建议](日常/阶段建议.md)
+
+* [介绍](ri-chang-xue-xi/jie-shao.md)
+* [培养方案](ri-chang-xue-xi/pei-yang-fang-an.md)
+* [阶段建议](ri-chang-xue-xi/jie-duan-jian-yi.md)
 
 ## OI
-* [声明](OI/声明.md)
-* [蓝桥杯](OI/蓝桥杯.md)
-* [团队天梯赛](OI/团队天梯赛.md)
-* [OI环境配置](https://www.luogu.com.cn/article/3lxrdehh)
+
+* [声明](oi/sheng-ming.md)
+* [OI 比赛一览](oi/oi-bi-sai-yi-lan.md)
+* [团队天梯赛](oi/tuan-dui-tian-ti-sai.md)
+* [蓝桥杯](oi/lan-qiao-bei.md)
+* [OI 环境配置](https://www.luogu.com.cn/article/3lxrdehh)
 
 ## 开发
-* [简介](开发/简介.md)
-* 前端
-    * [简介](开发/前端/简介.md)
-    * [先导](开发/前端/先导.md)
-    * [前端框架](开发/前端/前端框架.md)
-* 后端
-    * [简介](开发/后端/简介.md)
-    * [后端框架](开发/后端/后端框架.md)
+
+* [简介](kai-fa/jian-jie.md)
+* [前端](kai-fa/qian-duan/README.md)
+  * [简介](kai-fa/qian-duan/jian-jie.md)
+  * [先导](kai-fa/qian-duan/xian-dao.md)
+  * [前端框架](kai-fa/qian-duan/qian-duan-kuang-jia.md)
+* [后端](kai-fa/hou-duan/README.md)
+  * [简介](kai-fa/hou-duan/jian-jie.md)
+  * [后端框架](kai-fa/hou-duan/hou-duan-kuang-jia.md)
 
 ## 人工智能
-* [先导](人工智能/先导.md)
-* [环境搭建](人工智能/环境搭建.md)
-* [框架](人工智能/框架.md)
-* [大模型的使用](人工智能/大模型.md)
-* [本地部署大模型](人工智能/部署大模型.md)
+
+* [先导](ren-gong-zhi-neng/xian-dao.md)
+* [环境搭建](ren-gong-zhi-neng/huan-jing-da-jian.md)
+* [框架](ren-gong-zhi-neng/kuang-jia.md)
+* [大模型的使用](ren-gong-zhi-neng/da-mo-xing.md)
+* [本地部署大模型](ren-gong-zhi-neng/bu-shu-da-mo-xing.md)
 
 ## 常用/推荐
-* 命令
-    * [Git](常用/命令/Git.md)
-    * [Markdown](常用/命令/Markdown.md)
-    * [MySQL](常用/命令/MySQL.md)
-    * [pip](常用/命令/pip.md)
-    * [Conda](常用/命令/Conda.md)
-* 工具
-    * [Git](常用/工具/Git.md)
-    * [命令行](常用/工具/命令行.md)
-* [网站](常用/网站.md)
+
+* [命令](chang-yong-tui-jian/ming-ling/README.md)
+  * [Git](chang-yong-tui-jian/ming-ling/git.md)
+  * [Markdown](chang-yong-tui-jian/ming-ling/markdown.md)
+  * [MySQL](chang-yong-tui-jian/ming-ling/mysql.md)
+  * [pip](chang-yong-tui-jian/ming-ling/pip.md)
+  * [Conda](chang-yong-tui-jian/ming-ling/conda.md)
+* [工具](chang-yong-tui-jian/gong-ju/README.md)
+  * [Git](chang-yong-tui-jian/gong-ju/git.md)
+  * [命令行](chang-yong-tui-jian/gong-ju/ming-ling-xing.md)
+* [网站](chang-yong-tui-jian/wang-zhan.md)
 
 ## 杂项
-* [简介](杂项/简介.md)
-* [RPA](杂项/RPA.md)
 
-## Q&A
-* [关于竞赛中心](QA/关于竞赛中心.md)
-* [关于竞赛](QA/关于竞赛.md)
-* [关于学习](QA/关于学习.md)
+* [简介](za-xiang/jian-jie.md)
+* [RPA](za-xiang/rpa.md)
 
+## Q\&A
+
+* [关于竞赛中心](q-and-a/guan-yu-jing-sai-zhong-xin.md)
+* [关于竞赛](q-and-a/guan-yu-jing-sai.md)
+* [关于学习](q-and-a/guan-yu-xue-xi.md)

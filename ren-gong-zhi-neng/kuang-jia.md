@@ -1,0 +1,65 @@
+# 框架
+
+人工智能（AI）框架是用于构建、训练和部署机器学习和深度学习模型的工具和库。这些框架提供了丰富的功能和接口，简化了AI开发过程。以下是一些流行的AI框架及其特点：
+
+> 主流框架为 PyTorch 与 TensorFlow
+
+## 1. **TensorFlow**
+
+* **开发者**：Google
+* **特点**：TensorFlow 是一个开源的深度学习框架，支持大规模的机器学习和深度学习模型。它提供了灵活的计算图和自动微分功能，支持多种语言（如 Python、C++、Java）。TensorFlow 生态系统丰富，包括 TensorFlow Lite（用于移动和嵌入式设备）、TensorFlow Serving（用于模型部署）和 TensorFlow.js（用于在浏览器中运行模型）。
+
+## 2. **PyTorch**
+
+* **开发者**：Facebook
+* **特点**：PyTorch 是一个开源的深度学习框架，以其动态计算图和易用性而受到广泛欢迎。它支持张量计算和自动微分，非常适合研究和原型开发。PyTorch 也提供了丰富的库，如 TorchVision（用于计算机视觉）和 TorchText（用于自然语言处理）。
+
+## 3. **Keras**
+
+* **开发者**：François Chollet（现为 TensorFlow 的一部分）
+* **特点**：Keras 是一个高层次的神经网络 API，旨在简化深度学习模型的构建和训练。它可以运行在 TensorFlow、Theano 和 Microsoft Cognitive Toolkit（CNTK）之上。Keras 提供了简单易用的接口，适合快速原型开发。
+
+## 4. **Scikit-learn**
+
+* **开发者**：社区驱动
+* **特点**：Scikit-learn 是一个用于传统机器学习的 Python 库，提供了多种分类、回归和聚类算法。它支持数据预处理、特征选择、模型评估和交叉验证等功能。Scikit-learn 非常适合快速构建和评估机器学习模型。
+
+## 5. **MXNet**
+
+* **开发者**：Apache Software Foundation
+* **特点**：MXNet 是一个高效的深度学习框架，支持灵活的计算图和动态网络。它具有出色的性能和可扩展性，适合训练大规模模型。MXNet 支持多种语言（如 Python、Scala、Julia 和 R），并且与 AWS 深度集成。
+
+## 6. **Caffe**
+
+* **开发者**：伯克利视觉和学习中心（BVLC）
+* **特点**：Caffe 是一个深度学习框架，专注于速度和模块化。它特别适合计算机视觉任务，提供了简单的配置文件和模型定义方式。Caffe 的特点是快速的训练和推理速度，适合工业界的实际应用。
+
+## 7. **Chainer**
+
+* **开发者**：Preferred Networks
+* **特点**：Chainer 是一个灵活的深度学习框架，支持定义动态计算图。它允许开发者在运行时修改网络结构，适合研究和实验。Chainer 的设计理念是简化深度学习模型的实现和调试过程。
+
+## 8. **ONNX (Open Neural Network Exchange)**
+
+* **开发者**：Linux Foundation
+* **特点**：ONNX 是一个开放格式，用于表示深度学习模型。它支持多个框架之间的模型转换，如从 PyTorch 转换到 TensorFlow。ONNX 旨在促进不同框架和工具之间的互操作性，简化模型的部署和共享。
+
+## 9. **Fastai**
+
+* **开发者**：Jeremy Howard 和社区
+* **特点**：Fastai 是一个基于 PyTorch 的高层次库，旨在简化深度学习的学习过程。它提供了易于使用的 API，支持快速构建和训练模型，非常适合初学者和教育用途。
+
+## 10. **Hugging Face Transformers**
+
+* **开发者**：Hugging Face
+* **特点**：Hugging Face Transformers 是一个专注于自然语言处理的库，提供了多种预训练的模型（如 BERT、GPT、T5 等）。它支持 TensorFlow 和 PyTorch，使得开发和部署 NLP 模型变得简单和高效。
+
+## 选择 AI 框架的考虑因素
+
+在选择适合的 AI 框架时，应考虑以下因素：
+
+* **项目需求**：是否需要支持深度学习、传统机器学习或特定领域（如计算机视觉或自然语言处理）的功能。
+* **易用性**：框架的学习曲线和文档支持。
+* **社区支持**：框架的活跃程度和可用资源。
+* **性能**：框架的计算效率和可扩展性。
+* **兼容性**：是否能与其他工具和库无缝集成。
