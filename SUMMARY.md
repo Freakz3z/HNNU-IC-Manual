@@ -3,14 +3,14 @@
 ## 关于手册
 * [README](README.md)
 * [联系方式](手册/联系方式.md)
-* [如何提交PR](手册/如何提交PR.md)
+* [如何提交 PR](手册/如何提交PR.md)
 * [免责声明](手册/免责声明.md)
-* [一些闲话-来自Freak](手册/一些闲话.md)
+* [一些闲话-来自 Freak](手册/一些闲话.md)
 
 ## 关于新生/基础/入门
 * [入门编程语言](入门/快速入门编程语言.md)
-* [选择IDE](入门/选择IDE.md)
-* [AI编程](入门/AI编程.md)
+* [选择 IDE](入门/选择IDE.md)
+* [AI 编程](入门/AI编程.md)
 
 ## 日常学习
 * [介绍](日常/介绍.md)
@@ -22,7 +22,7 @@
 * [OI 比赛一览](OI/OI比赛一览.md)
 * [团队天梯赛](OI/团队天梯赛.md)
 * [蓝桥杯](OI/蓝桥杯.md)
-* [OI环境配置](https://www.luogu.com.cn/article/3lxrdehh)
+* [OI 环境配置](https://www.luogu.com.cn/article/3lxrdehh)
 
 ## 开发
 * [简介](开发/简介.md)
