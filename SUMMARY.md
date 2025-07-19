@@ -40,17 +40,14 @@
 * [大模型的使用](人工智能/大模型.md)
 * [本地部署大模型](人工智能/部署大模型.md)
 
-## 常用/推荐
-* 命令
-    * [Git](常用/命令/Git.md)
-    * [Markdown](常用/命令/Markdown.md)
-    * [MySQL](常用/命令/MySQL.md)
-    * [pip](常用/命令/pip.md)
-    * [Conda](常用/命令/Conda.md)
-* 工具
-    * [Git](常用/工具/Git.md)
-    * [命令行](常用/工具/命令行.md)
-* [网站](常用/网站.md)
+## 常用
+* [命令行](常用/命令行.md)
+* [Git](常用/Git.md)
+* [Markdown](常用/Markdown.md)
+* [MySQL](常用/MySQL.md)
+* [pip](常用/pip.md)
+* [Conda](常用/Conda.md)
+* [网站推荐](常用/网站.md)
 
 ## 杂项
 * [简介](杂项/简介.md)
