@@ -57,7 +57,7 @@
 * [RPA](杂项/RPA.md)
 
 ## 一些闲话
-* [一些闲话-来自 Freak](一些闲话/Freak.md)
+* [From Freak](一些闲话/Freak.md)
 
 ## Q&A
 * [关于竞赛中心](QA/关于竞赛中心.md)
