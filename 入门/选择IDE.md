@@ -1,6 +1,6 @@
 # 选择 IDE
 
-在 [入门编程语言](../Basic/Quick-Start.md) 中提到了以下内容：
+在 [入门编程语言](入门/快速入门编程语言.md) 中提到了以下内容：
 
 * [C++在线编辑器](https://www.runoob.com/try/runcode.php?filename=helloworld\&type=cpp)
 * [Dev-C++：适合初学者的IDE](https://sourceforge.net/projects/orwelldevcpp/)
@@ -84,4 +84,4 @@
 有的同学可能会问，能不能一次性下载所有的IDE以备后面的学习和开发使用。答案当然是肯定的，但是不同的 IDE 间可能会出现一些问题，比如如果先下载了 VS 后再去 VSCode 中使用 C/C++就可能会出现一些问题，需要额外的花时间去解决。这当然不是什么非常大的事情，但是还是建议大家根据自己的需求来选择适合自己的 IDE。
 
 ## 更多代码编辑器及工具
-https://oi-wiki.org/tools/
+[工具软件简介-OI Wiki](https://oi-wiki.org/tools/)
